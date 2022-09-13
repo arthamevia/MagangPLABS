@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+  }
+  
+  /* Style the header */
+  .header {
+    background-color: #4e7de2;
+    padding: 20px;
+    text-align: center;
+  }
